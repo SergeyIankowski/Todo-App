@@ -1,5 +1,5 @@
 import { Divider, Flex } from "@chakra-ui/react";
-import { Todo } from "../view/Todo";
+import { Todo } from "../../view/Todo";
 
 export function Todos() {
   return (

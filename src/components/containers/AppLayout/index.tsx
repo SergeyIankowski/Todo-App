@@ -1,6 +1,6 @@
 import { Box, Flex, Text } from "@chakra-ui/react";
 import { Todos } from "../Todos";
-import { TodoInput } from "../view/TodoInput";
+import { TodoInput } from "../../view/TodoInput";
 
 export function AppLayout() {
   return (
