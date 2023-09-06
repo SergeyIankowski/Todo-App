@@ -1,6 +1,6 @@
 import { Box, Flex, Stack, Text, useMediaQuery } from "@chakra-ui/react";
 import { Todos } from "@/components/containers/Todos";
-import { TodoInput } from "@/components/view/TodoInput";
+import { TodoInput } from "@/components/containers/TodoInput";
 import { ClearCompletedButton } from "../ClearCompletedButton";
 import { RemoveAllTodosButton } from "../RemoveAllTodosButton";
 import { useTodosStore } from "@/store";

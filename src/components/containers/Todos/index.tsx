@@ -1,6 +1,6 @@
 import { useMemo } from "react";
 import { Box, Divider, Flex } from "@chakra-ui/react";
-import { Todo } from "@/components/view/Todo";
+import { Todo } from "@/components/containers/Todo";
 import { useTodosStore } from "@/store";
 import { ITodo } from "@/interfaces/ITodo";
 import { DividerLabeled } from "@/components/view/DividerLabeled/Index";
