@@ -20,6 +20,7 @@ module.exports = {
     "react/react-in-jsx-scope": "off",
     "react/jsx-filename-extension": "off",
     "import/prefer-default-export": "off",
+    "import/extensions": ["off"],
     "react-refresh/only-export-components": [
       "warn",
       { allowConstantExport: true },
